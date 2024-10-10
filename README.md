@@ -1,7 +1,22 @@
+# Informatica
 
-# Apresentação de informatica 
 
-"A disciplina de Informática é essencial para capacitar os alunos no uso de tecnologias da informação, abordando temas como hardware, software, redes, banco de dados e automação. Os alunos aprendem a utilizar ferramentas de produtividade, como planilhas e sistemas de gerenciamento de dados, além de conceitos de programação e segurança digital. A disciplina também inclui o estudo de sistemas de informação aplicados à gestão e controle de processos, especialmente no contexto industrial."
-![OIP](https://github.com/user-attachments/assets/87ca47c6-70fe-4377-81f0-c77500a9d5c9)
 
-![image](https://github.com/user-attachments/assets/5bd1c3b3-e8a5-473a-99de-0d9cdeabd033)
+# Índice
+
+* [Projeto (API)](#projeto-api)
+* [Micro Certificações](#micro-certificações)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
+* [Cronograma das Sprints](#cronograma-das-sprints)
+* [Backlog do Produto](#backlog-do-produto)
+* [Burndown](#burndown)
+* [Competências Desenvolvidas](#competências-desenvolvidas)
+* [Autores](#autores)
+
+# Projeto (API) 
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+
