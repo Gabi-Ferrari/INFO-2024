@@ -6,7 +6,9 @@ O objetivo da informática é capacitar os alunos a utilizar a tecnologia de man
 Neste repositório, exploraremos conceitos-chave, práticas recomendadas e recursos que facilitarão a compreensão e a aplicação dos conhecimentos de informática.
 
 ![ ] (https://static.vecteezy.com/ti/fotos-gratis/p1/7019138-inovacoes-sistemas-conectando-pessoas-e-dispositivos-de-inteligencia-tecnologia-futuristica-redes-e-trocas-de-dados-conexao-e-industria-de-computadores-de-telecomunicacoes-e-desenvolvimento-da-internet-gratis-foto.jpg)
-
+<p align="center">
+ <img src="https://static.vecteezy.com/ti/fotos-gratis/p1/7019138-inovacoes-sistemas-conectando-pessoas-e-dispositivos-de-inteligencia-tecnologia-futuristica-redes-e-trocas-de-dados-conexao-e-industria-de-computadores-de-telecomunicacoes-e-desenvolvimento-da-internet-gratis-foto.jpg"/>
+</p>
 
 # Índice
 
