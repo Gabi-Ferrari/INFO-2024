@@ -5,8 +5,8 @@
 # Índice
 
 * [Apresentação ](https://github.com/Gabi-Ferrari/INFO-2024/blob/main/Apresenta%C3%A7%C3%A3o%20de%20infromatica)
+* * [Tabalho- taxa de rentenção](https://teams.microsoft.com/v2/?ring=ring3_6)
 * [graficos dados abertos Gasolina ](image.png)
-* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
