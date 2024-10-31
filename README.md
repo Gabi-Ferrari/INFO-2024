@@ -11,10 +11,10 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Lari104/LightYagami /output/github-contribution-grid-snake.svg">
 </picture>
 
-
-
 # Introdução à Informática
-![image](https://github.com/user-attachments/assets/0cc710b2-e460-48ed-b133-8aaa3db565f2)
+![crie uma imagem q descreva tecnologia e informatica que tenha rosa claro e fucsia como tons principais e muito verde](https://github.com/user-attachments/assets/e1a95d6a-aecb-4430-9b33-43c274d597d6)
+
+
 A matéria de informática é fundamental para o desenvolvimento de habilidades tecnológicas essenciais no mundo moderno. Ela abrange o estudo de computadores, sistemas operacionais, software e hardware, além de ensinar os princípios da programação e a utilização de ferramentas digitais.
 
 O objetivo da informática é capacitar os alunos a utilizar a tecnologia de maneira eficaz, promovendo a resolução de problemas, a criatividade e a inovação. Com o avanço da tecnologia, o domínio da informática tornou-se indispensável em diversas áreas, desde a educação até o mercado de trabalho.
