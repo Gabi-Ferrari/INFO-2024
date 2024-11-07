@@ -77,12 +77,6 @@ coleta de dados de sites com informações abertas.
    destacando o volume  permitindo acompanhar do desempenho
 ![image](https://github.com/user-attachments/assets/2876b023-9639-47c4-8a73-3bf0e9ad97e3)
 
-* atividade 7
-  tabela de atividades anteriores para avaliar o desempenho e definir três metas principais a serem alcançadas.
-  Depois, criei visualizações de KPIs no Power BI para monitorar essas metas, facilitando a avaliação do seu progresso e cumprimento
-  ![image](https://github.com/user-attachments/assets/42368aa6-b747-4f4a-add2-56bc8279e057)
-  ![image](https://github.com/user-attachments/assets/b9cd6c03-1685-4193-859e-7a506719fa2c)
-  ![image](https://github.com/user-attachments/assets/ebfc7356-59c8-48b1-9ae7-756cb145af3c)
 
 
 
