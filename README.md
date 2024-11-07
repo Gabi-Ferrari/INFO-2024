@@ -37,6 +37,7 @@ Neste repositório, exploraremos conceitos-chave, práticas recomendadas e recur
 * [ Trabalho Infor-1](https://github.com/Gabi-Ferrari/INFO-2024/blob/main/Trabalho%201.pbix)
 * [atividade info](info.pbix)
 * [ Trabalho infor-3](https://github.com/Gabi-Ferrari/INFO-2024/blob/main/filiaisDAX.GABIpbix.pbix)
+* [ power bi 4 (1)](https://github.com/Gabi-Ferrari/INFO-2024/blob/main/Power%20BI%204.pbix%20atu.%201.pbix.4%20(1).pbix)
 
 
 ## 🛠 Expericence
