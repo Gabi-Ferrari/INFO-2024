@@ -77,6 +77,12 @@ coleta de dados de sites com informações abertas.
    destacando o volume  permitindo acompanhar do desempenho
 ![image](https://github.com/user-attachments/assets/2876b023-9639-47c4-8a73-3bf0e9ad97e3)
 
+* atividade 7
+![image](https://github.com/user-attachments/assets/f09b18dd-1570-4db4-b544-fcc3ce979dda)
+![image](https://github.com/user-attachments/assets/04814561-110a-454d-aec3-71a56859b143)
+![image](https://github.com/user-attachments/assets/b6bb2bc3-1bfc-4c73-80b7-c4d5162a2246)
+
+
 
 
 
