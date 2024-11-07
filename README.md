@@ -42,3 +42,35 @@ Neste repositório, exploraremos conceitos-chave, práticas recomendadas e recur
 ## 🛠 Expericence
 Espanhol, 3DExperience, SolidWorks, CATIA V5, CATIA 3DX, Pedagogia, Manutenção de Aeronaves.
 
+## Atividades INFORMATICA 
+* ##atividade 1 power point apresentação.
+* Atividade 2
+![image](https://github.com/user-attachments/assets/32157683-c1bd-4ef5-a0c2-3c8e5952d161)
+
+* atividade 3
+![image](https://github.com/user-attachments/assets/44012952-517c-4cb8-91df-ec181e157dbd)
+
+
+![image](https://github.com/user-attachments/assets/7f9b6b9b-24b2-45a8-a260-10db69fbff0d)
+
+
+* atividade 4
+  ![image](https://github.com/user-attachments/assets/37fa6eb8-97a6-469a-9807-47a214d1cff5)
+
+  
+* atividade 5
+![image](https://github.com/user-attachments/assets/9c160dfa-ac83-4986-bfc9-6daa15565193)
+
+
+
+* atividade 6
+![image](https://github.com/user-attachments/assets/2876b023-9639-47c4-8a73-3bf0e9ad97e3)
+
+
+
+
+
+
+
+
+
