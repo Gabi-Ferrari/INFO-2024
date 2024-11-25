@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/5d3e178a-b2e3-4c17-bc70-7765c69180d1
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+Gabi´s+dashboard!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -85,7 +87,11 @@ coleta de dados de sites com informações abertas.
 *Atividade 8
 
 
-Uploading Power Apps Studio  _  Aplicativo Infor- viagens e mais 11 páginas - Perfil 1 — Microsoft​ Edge 2024-11-25 20-08-35_Trim.mp4…
+
+
+
+
+
 
 
 
