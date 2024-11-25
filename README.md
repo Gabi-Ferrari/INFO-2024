@@ -82,6 +82,13 @@ coleta de dados de sites com informações abertas.
 ![image](https://github.com/user-attachments/assets/04814561-110a-454d-aec3-71a56859b143)
 ![image](https://github.com/user-attachments/assets/b6bb2bc3-1bfc-4c73-80b7-c4d5162a2246)
 
+*Atividade 8
+
+
+Uploading Power Apps Studio  _  Aplicativo Infor- viagens e mais 11 páginas - Perfil 1 — Microsoft​ Edge 2024-11-25 20-08-35_Trim.mp4…
+
+
+
 
 
 
